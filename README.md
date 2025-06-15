@@ -3,4 +3,5 @@ For learning push, pull, commit, clone, branch
 
 hi i am manish
 this is shubh 
-hi this is chandrashekar
+hi this is chandrashekar 
+hello everyone
